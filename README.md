@@ -24,7 +24,6 @@ Technical Skills: Omron's Sysmac Studio | Ethercat | Ethernet/IP | Adept Robotic
 ## Projects
 ### Classification of Motor Imagery tasks
 [GitHub](https://github.com/GNithianandam/EEG-Motor-Imagery-classification)
-
 Technical Skills: Tensorflow | Python | Deep Learning | Neuroscience
 
 The project's major goal is finding the optimal combination of approaches to decode motor
