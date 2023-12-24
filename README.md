@@ -24,7 +24,9 @@ Technical Skills: Omron's Sysmac Studio | Ethercat | Ethernet/IP | Adept Robotic
 ## Projects
 ### Classification of Motor Imagery tasks
 [GitHub](https://github.com/GNithianandam/EEG-Motor-Imagery-classification)
+
 Technical Skills: Tensorflow | Python | Deep Learning | Neuroscience
+
 The project's major goal is finding the optimal combination of approaches to decode motor
 imagery task with less data and achieving a higher classification accuracy by performing a
 comparison study between combination of Deep Learning models and data augmentation
@@ -32,8 +34,10 @@ methods
 
 ### Sofware development for bolt making machine
 Technical Skills: Omron sysmac studio | Ethercat | Serial Communication | Servo drives
+
 Conducted remote programming and testing of bolt-making machines for an Australian client. Configured Programmable Logic Controllers (PLC) and Human Machine Interfaces (HMI) based on Omron technology. Established serial communication protocols with both facing and drilling machines. Additionally, integrated Omron servo drives for other critical processes.
 
 ### Barcode detection
 Technical Skills: Pytorch | Python | Streamlit | Computer Vision
+
 Developed an object detection algorithm to train a model specifically designed for detecting barcodes within given objects. Following the training process, successfully deployed the trained model using the Streamlit library for a streamlined and interactive user interface
