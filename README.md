@@ -3,8 +3,8 @@ I hold a Master's degree in Robotics and Autonomous Systems from the University 
 Beyond my professional roles, I have a keen interest in non-invasive brain classification tasks. Explore my portfolio to learn more about my projects and experiences!
 
 ## Education						       		
-- M.Sc., Robotics and Autonomous Systems	|University of Bath (_September 2022_)	 			        		
-- BEng., Electrical and Electronics Engineering |University of Brighton (_June 2018_)
+- M.Sc., Robotics and Autonomous Systems	       University of Bath (_September 2022_)	 			        		
+- BEng., Electrical and Electronics Engineering  University of Brighton (_June 2018_)
 
 ## Work Experience
 **P2i Limited – Oxford, UK. (_June 2023 - Present_)**
