@@ -14,6 +14,7 @@ Technical Skills: Siemen's TIA Portal | Profibus | Profinet | .NET | MariaDB | B
 - Engineered a Time-Based One-Time Password (TOTP) authenticator application utilizing the .NET framework. Seamlessly integrated this app with the existing Human-Machine Interface (HMI) software to enhance authentication processes. The result is a robust and secure solution that ensures improved access control and heightened security measures.
   
 **Brillopak Limited – East Peckham, UK. (_June 2018 - May 2023_)**
+
 Technical Skills: Omron's Sysmac Studio | Ethercat | Ethernet/IP | Adept Robotics | .NET
 - Demonstrated expertise in developing high-speed pick and place robotic systems from concept to completion using EV+ and C# programming languages.
 - Designed and executed control systems for multiple industries, including manufacturing, agriculture, and food production.
