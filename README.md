@@ -16,7 +16,7 @@ P2i is a technology company specializing in liquid-repellent nano-coating soluti
 - Engineered a robust Electrical Resistivity test software leveraging the .NET framework. The software seamlessly communicates with the Power Supply and Multimeter through SCPI commands, ensuring efficient and precise data acquisition. The acquired results are meticulously computed and stored in a CSV file for convenient analysis and reporting.
 - Developed a user-centric Human-Machine Interface (HMI) using Beijer IX Developer for an innovative development machine, placing a strong emphasis on seamless narration. Engineered a sophisticated script facilitating communication with an external database, enabling comprehensive functionality for logging, user management, and recipe management. The HMI adheres meticulously to IEC standards, ensuring a reliable and standardized interface for optimal performance.
 - Engineered a Time-Based One-Time Password (TOTP) authenticator application utilizing the .NET framework. Seamlessly integrated this app with the existing Human-Machine Interface (HMI) software to enhance authentication processes. The result is a robust and secure solution that ensures improved access control and heightened security measures.
-- **_Technologies used:_** Siemen's TIA Portal,Profibus,Profinet,.NET,MariaDB,Beijer's IX Developer
+- **_Technologies used:_** Siemen's TIA Portal, Profibus, Profinet, .NET, MariaDB, Beijer's IX Developer
   
 ### Brillopak Limited – East Peckham, UK. (_June 2018 - May 2023_)
 
@@ -26,7 +26,7 @@ Brillopak is an automation and robotics company that designs and manufactures in
 - Designed and executed control systems for multiple industries, including manufacturing, agriculture, and food production.
 - Developed and implemented functional designs for safety PLC, control system, and interface to ensure the highest level of safety and efficiency of the robotic systems.
 - Involved in customer P&ID and FAT phases of the project.
-- **_Technologies used:_** Omron's Sysmac Studio,Ethercat,Ethernet/IP,Adept Robotics,.NET
+- **_Technologies used:_** Omron's Sysmac Studio, Ethercat, Ethernet/IP, Adept Robotics, .NET
   
 ## Projects
 ### Classification of Motor Imagery tasks 🧠
@@ -35,19 +35,19 @@ The project's major goal is finding the optimal combination of approaches to dec
 imagery task with less data and achieving a higher classification accuracy by performing a
 comparison study between combination of Deep Learning models and data augmentation
 methods.[Project Link](https://github.com/GNithianandam/EEG-Motor-Imagery-classification) <br>
-**_Technologies used:_** Tensorflow,Python,Deep Learning,Neuroscience
+**_Technologies used:_** Tensorflow, Python, Deep Learning, Neuroscience
 
 ### Sofware development for bolt making machine 🔩
 
 Conducted remote programming and testing of bolt-making machines for an Australian client. Configured Programmable Logic Controllers (PLC) and Human Machine Interfaces (HMI) based on Omron technology. Established serial communication protocols with both facing and drilling machines. Additionally, integrated Omron servo drives for other critical processes. <br>
-**_Technologies used:_** Omron sysmac studio,Ethercat,Serial Communication,Servo drives
+**_Technologies used:_** Omron sysmac studio, Ethercat, Serial Communication, Servo drives
 
 ### AquaMetrics: Managing Swim Sessions and Performance Data 🏊🏼
 
 Developed and implemented swim training application to elevate the swimming experience through the seamless integration of MySQL and the .NET framework. This application serves as a comprehensive tool for swimmers, coaches, and fitness enthusiasts to meticulously record, analyze, and enhance their swim sessions. <br>
-**_Technologies used:_** MySQL,.Net
+**_Technologies used:_** MySQL, .Net
 
 ### Enhancing Wildfire Detection from UAV Imagery: A Transfer Learning and Data Augmentation Approach
 
 Implemented pre-trained deep learning model MobileNetV2 to realize transfer learning technique and data augmentation methodology to detect wildfires using UAV. The MobileNetV2 is trained and validated with the help of the MATLAB software's Deep Network Designer. <br>
-**_Technologies used:_** MATLAB,MobileNetV2
+**_Technologies used:_** MATLAB, MobileNetV2
