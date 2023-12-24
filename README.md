@@ -45,3 +45,7 @@ Technical Skills: MySQL | .Net
 
 Developed and implemented swim training application to elevate the swimming experience through the seamless integration of MySQL and the .NET framework. This application serves as a comprehensive tool for swimmers, coaches, and fitness enthusiasts to meticulously record, analyze, and enhance their swim sessions.
 
+### Enhancing Wildfire Detection from UAV Imagery: A Transfer Learning and Data Augmentation Approach
+Technical Skills: MATLAB | MobileNetV2
+
+Implemented pre-trained deep learning model MobileNetV2 to realize transfer learning technique and data augmentation methodology to detect wildfires using UAV. The MobileNetV2 is trained and validated with the help of the MATLAB software's Deep Network Designer.
