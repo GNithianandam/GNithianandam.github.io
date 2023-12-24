@@ -9,7 +9,7 @@ Beyond my professional roles, I have a keen interest in non-invasive brain class
 - BEng., Electrical and Electronics Engineering  |University of Brighton (_June 2018_)
 
 ## Work Experience
-###P2i Limited – Oxford, UK. (_June 2023 - Present_)
+### P2i Limited – Oxford, UK. (_June 2023 - Present_)
 
 P2i is a technology company specializing in liquid-repellent nano-coating solutions that make electronic devices and textiles water-resistant. Their technology creates an invisible barrier on surfaces, protecting them from water damage and enhancing durability.
 
@@ -18,7 +18,7 @@ P2i is a technology company specializing in liquid-repellent nano-coating soluti
 - Engineered a Time-Based One-Time Password (TOTP) authenticator application utilizing the .NET framework. Seamlessly integrated this app with the existing Human-Machine Interface (HMI) software to enhance authentication processes. The result is a robust and secure solution that ensures improved access control and heightened security measures.
 - **_Technologies used:_** Siemen's TIA Portal,Profibus,Profinet,.NET,MariaDB,Beijer's IX Developer
   
-###Brillopak Limited – East Peckham, UK. (_June 2018 - May 2023_)
+### Brillopak Limited – East Peckham, UK. (_June 2018 - May 2023_)
 
 Brillopak is an automation and robotics company that designs and manufactures innovative packaging solutions for the food industry. 
 
