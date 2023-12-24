@@ -2,8 +2,7 @@ Hi there!
 I hold a Master's degree in Robotics and Autonomous Systems from the University of Bath and a Bachelor's degree in Electrical and Electronics Engineering from the University of Brighton. Currently, I contribute to innovative projects at P2i Limited and have previously played a key role at Brillopak Limited. My work at Brillopak included the development of high-speed pick and place robotic systems and designing control systems for various industries.
 Beyond my professional roles, I have a keen interest in non-invasive brain classification tasks.Explore my portfolio to learn more about my projects and experiences!
 
-Link to **[LinkedIN](https://www.linkedin.com/in/gokulan-nithianandam)** profile.I can be contacted through by my email **g.nithianandam@gmail.com**.
-
+[Email](mailto:g.nithianandam@gmail.com) / [LinkedIn](https://www.linkedin.com/in/gokulan-nithianandam) / [GitHub](https://github.com/GNithianandam)
 
 ## Education						       		
 - M.Sc., Robotics and Autonomous Systems	       |University of Bath (_September 2022_)	 			        		
