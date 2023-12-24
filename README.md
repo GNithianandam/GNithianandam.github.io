@@ -1,5 +1,5 @@
 # Software and Controls Enginner
-- My journey includes postgraduate studies in Robotics and Autonomous Systems, where I delved deep into the intricate world of cutting-edge technology. My foundation lies in Electrical and Electronics Engineering from my undergraduate studies, providing a solid base for my current endeavors.Beyond the world of technology, I find joy in the simplicity of life. Whether diving into the refreshing waters of a pool, hitting the pavement for a run, or immersing myself in the worlds created by captivating books—I embrace the balance of both the digital and analog aspects of life."
+My journey includes postgraduate studies in Robotics and Autonomous Systems, where I delved deep into the intricate world of cutting-edge technology. My foundation lies in Electrical and Electronics Engineering from my undergraduate studies, providing a solid base for my current endeavors.Beyond the world of technology, I find joy in the simplicity of life. Whether diving into the refreshing waters of a pool, hitting the pavement for a run, or immersing myself in the worlds created by captivating books—I embrace the balance of both the digital and analog aspects of life."
 
 #### Technical Skills: Python, SQL, .Net, Sysmac Studio, TIA Portal
 
