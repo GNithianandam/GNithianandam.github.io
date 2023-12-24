@@ -1,6 +1,6 @@
 # Software and Controls Enginner
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, .Net, Sysmac Studio, TIA Portal
 
 ## Education						       		
 - M.Sc., Robotics and Autonomous Systems	|University of Bath (_September 2022_)	 			        		
