@@ -1,4 +1,4 @@
-# Software and Controls Enginner
+# Software and Controls Engineer
 My journey includes postgraduate studies in Robotics and Autonomous Systems, where I delved deep into the intricate world of cutting-edge technology. My foundation lies in Electrical and Electronics Engineering from my undergraduate studies, providing a solid base for my current endeavors.Beyond the world of technology, I find joy in the simplicity of life. Whether diving into the refreshing waters of a pool, hitting the pavement for a run, or immersing myself in the worlds created by captivating books. I embrace the balance of both the digital and analog aspects of life.
 
 ## Education						       		
@@ -22,7 +22,7 @@ Technical Skills: Omron's Sysmac Studio | Ethercat | Ethernet/IP | Adept Robotic
 - Involved in customer P&ID and FAT phases of the project.
 
 ## Projects
-### Classification of Motor Imagery tasks
+### Classification of Motor Imagery tasks 🧠
 Technical Skills: Tensorflow | Python | Deep Learning | Neuroscience
 
 The project's major goal is finding the optimal combination of approaches to decode motor
@@ -30,12 +30,13 @@ imagery task with less data and achieving a higher classification accuracy by pe
 comparison study between combination of Deep Learning models and data augmentation
 methods.[Project Link](https://github.com/GNithianandam/EEG-Motor-Imagery-classification)
 
-### Sofware development for bolt making machine
+### Sofware development for bolt making machine 🔩
 Technical Skills: Omron sysmac studio | Ethercat | Serial Communication | Servo drives
 
 Conducted remote programming and testing of bolt-making machines for an Australian client. Configured Programmable Logic Controllers (PLC) and Human Machine Interfaces (HMI) based on Omron technology. Established serial communication protocols with both facing and drilling machines. Additionally, integrated Omron servo drives for other critical processes.
 
-### Barcode detection
-Technical Skills: Pytorch | Python | Streamlit | Computer Vision
+### AquaMetrics: Managing Swim Sessions and Performance Data 🏊🏼
+Technical Skills: MySQL | .Net
 
-Developed an object detection algorithm to train a model specifically designed for detecting barcodes within given objects. Following the training process, successfully deployed the trained model using the Streamlit library for a streamlined and interactive user interface
+Developed and implemented swim training application to elevate the swimming experience through the seamless integration of MySQL and the .NET framework. This application serves as a comprehensive tool for swimmers, coaches, and fitness enthusiasts to meticulously record, analyze, and enhance their swim sessions.
+
