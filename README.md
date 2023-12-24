@@ -9,14 +9,16 @@ My journey includes postgraduate studies in Robotics and Autonomous Systems, whe
 
 ## Work Experience
 **P2i Limited – Oxford, UK. (_June 2023 - Present_)**
-
 #### Siemen's TIA Portal | Profibus | Profinet | .NET | MariaDB | Beijer's IX Developer
 - Engineered a robust Electrical Resistivity test software leveraging the .NET framework. The software seamlessly communicates with the Power Supply and Multimeter through SCPI commands, ensuring efficient and precise data acquisition. The acquired results are meticulously computed and stored in a CSV file for convenient analysis and reporting.
 - Developed a user-centric Human-Machine Interface (HMI) using Beijer IX Developer for an innovative development machine, placing a strong emphasis on seamless narration. Engineered a sophisticated script facilitating communication with an external database, enabling comprehensive functionality for logging, user management, and recipe management. The HMI adheres meticulously to IEC standards, ensuring a reliable and standardized interface for optimal performance.
 - Engineered a Time-Based One-Time Password (TOTP) authenticator application utilizing the .NET framework. Seamlessly integrated this app with the existing Human-Machine Interface (HMI) software to enhance authentication processes. The result is a robust and secure solution that ensures improved access control and heightened security measures.
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Brillopak Limited – East Peckham, UK. (_June 2018 - May 2023_)**
+#### Omron's Sysmac Studio | Ethercat | Ethernet/IP | Adept Robotics | .NET
+- Demonstrated expertise in developing high-speed pick and place robotic systems from concept to completion using EV+ and C# programming languages.
+- Designed and executed control systems for multiple industries, including manufacturing, agriculture, and food production.
+- Developed and implemented functional designs for safety PLC, control system, and interface to ensure the highest level of safety and efficiency of the robotic systems.
+- Involved in customer P&ID and FAT phases of the project.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
