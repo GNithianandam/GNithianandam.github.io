@@ -49,5 +49,5 @@ Developed and implemented swim training application to elevate the swimming expe
 
 ### Enhancing Wildfire Detection from UAV Imagery: A Transfer Learning and Data Augmentation Approach
 
-Implemented pre-trained deep learning model MobileNetV2 to realize transfer learning technique and data augmentation methodology to detect wildfires using UAV. The MobileNetV2 is trained and validated with the help of the MATLAB software's Deep Network Designer.
-**_Technologies used:_** MATLAB | MobileNetV2
+Implemented pre-trained deep learning model MobileNetV2 to realize transfer learning technique and data augmentation methodology to detect wildfires using UAV. The MobileNetV2 is trained and validated with the help of the MATLAB software's Deep Network Designer. <br>
+**_Technologies used:_** MATLAB,MobileNetV2
