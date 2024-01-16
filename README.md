@@ -45,7 +45,8 @@ Conducted remote programming and testing of bolt-making machines for an Australi
 ### AquaMetrics: Managing Swim Sessions and Performance Data 🏊🏼
 
 Developed and implemented swim training application to elevate the swimming experience through the seamless integration of MySQL and the .NET framework. This application serves as a comprehensive tool for swimmers, coaches, and fitness enthusiasts to meticulously record, analyze, and enhance their swim sessions. <br>
-**_Technologies used:_** MySQL, .Net
+**_Technologies used:_** MySQL, .Net 
+![Alt text](asset/img/SwimDB.png)
 
 ### Enhancing Wildfire Detection from UAV Imagery: A Transfer Learning and Data Augmentation Approach
 
