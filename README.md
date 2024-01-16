@@ -50,7 +50,8 @@ Developed and implemented swim training application to elevate the swimming expe
 ### Enhancing Wildfire Detection from UAV Imagery: A Transfer Learning and Data Augmentation Approach
 
 Implemented pre-trained deep learning model MobileNetV2 to realize transfer learning technique and data augmentation methodology to detect wildfires using UAV. The MobileNetV2 is trained and validated with the help of the MATLAB software's Deep Network Designer. <br>
-**_Technologies used:_** MATLAB, MobileNetV2
+**_Technologies used:_** MATLAB, MobileNetV2 <br>
+![Alt text](asset/img/WildFireDetection.png)
 
 ### Apple pack QC
 Used YoloV8 object detection algorithm to detect the defective apple and counting number of apples in a pack. The bad packs are detected and rejected using servo driven arm. The application is implemened using a web application developed using streamlit. Furthermore, the results are stored in the MYSQL database as part of the MES. In addition, the application provides user authentication and managements where the users credentials are encrypted using SHA512 and stored in the database. <br>
