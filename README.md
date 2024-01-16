@@ -30,7 +30,7 @@ Brillopak is an automation and robotics company that designs and manufactures in
   
 ## Projects
 ### Classification of Motor Imagery tasks 🧠
-
+![Alt text](asset/img/eegframework.jpeg)
 The project's major goal is finding the optimal combination of approaches to decode motor
 imagery task with less data and achieving a higher classification accuracy by performing a
 comparison study between combination of Deep Learning models and data augmentation
@@ -43,18 +43,17 @@ Conducted remote programming and testing of bolt-making machines for an Australi
 **_Technologies used:_** Omron sysmac studio, Ethercat, Serial Communication, Servo drives
 
 ### AquaMetrics: Managing Swim Sessions and Performance Data 🏊🏼
-
+![Alt text](asset/img/SwimDB.png)
 Developed and implemented swim training application to elevate the swimming experience through the seamless integration of MySQL and the .NET framework. This application serves as a comprehensive tool for swimmers, coaches, and fitness enthusiasts to meticulously record, analyze, and enhance their swim sessions. <br>
 **_Technologies used:_** MySQL, .Net 
-![Alt text](asset/img/SwimDB.png)
 
 ### Enhancing Wildfire Detection from UAV Imagery: A Transfer Learning and Data Augmentation Approach
-
+![Alt text](asset/img/WildFireDetection.png)
 Implemented pre-trained deep learning model MobileNetV2 to realize transfer learning technique and data augmentation methodology to detect wildfires using UAV. The MobileNetV2 is trained and validated with the help of the MATLAB software's Deep Network Designer. <br>
 **_Technologies used:_** MATLAB, MobileNetV2 <br>
-![Alt text](asset/img/WildFireDetection.png)
 
 ### Apple pack QC
+![Alt text](asset/img/AppleVisionQC.png)
 Used YoloV8 object detection algorithm to detect the defective apple and counting number of apples in a pack. The bad packs are detected and rejected using servo driven arm. The application is implemened using a web application developed using streamlit. Furthermore, the results are stored in the MYSQL database as part of the MES. In addition, the application provides user authentication and managements where the users credentials are encrypted using SHA512 and stored in the database. <br>
 **_Technologies used:_** MYSQL, YOLOV8, Streamlit <br>
-![Alt text](asset/img/AppleVisionQC.png)
+
