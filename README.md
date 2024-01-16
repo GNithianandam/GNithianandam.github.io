@@ -53,5 +53,6 @@ Implemented pre-trained deep learning model MobileNetV2 to realize transfer lear
 **_Technologies used:_** MATLAB, MobileNetV2
 
 ### Apple pack QC
-Used YoloV8 object detection algorithm to detect the defective apple and counting number of apples in a pack. The bad packs are detected and rejected using servo driven arm. The application is implemened using a web application developed using streamlit. Furthermore, the results are stored in the MYSQL database as part of the MES. In addition, the application provides user authentication and managements where the users credentials are encrypted using SHA512 and stored in the database. 
+Used YoloV8 object detection algorithm to detect the defective apple and counting number of apples in a pack. The bad packs are detected and rejected using servo driven arm. The application is implemened using a web application developed using streamlit. Furthermore, the results are stored in the MYSQL database as part of the MES. In addition, the application provides user authentication and managements where the users credentials are encrypted using SHA512 and stored in the database. <br>
+**_Technologies used:_** MYSQL, YOLOV8, Streamlit <br>
 ![Alt text](URL "asset/img/AppleVisionQC.png")
