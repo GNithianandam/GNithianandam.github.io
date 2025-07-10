@@ -13,11 +13,11 @@ Beyond my professional roles, I do running and swimming!
 
 Diamond Light Source is the UK’s national synchrotron. It works like a giant microscope, harnessing the power of electrons to produce bright light that scientists can use to study anything from fossils to jet engines to viruses and vaccines.
 
--Developed three axis gantry systems with 0.2mm accuracy using Beckoff stepper drives with Omron NX PLC.
--Developed interlocks for ultra high vacuum systems.
--Developed Beckoff PLC system to monitor the storage ring temperature. Used 23 Ethercat couplers with 6 temperature cards (48 PT100) on each to acquire data and the data is fed to SCADA system.
+- Developed three axis gantry systems with 0.2mm accuracy using Beckoff stepper drives with Omron NX PLC.
+- Developed interlocks for ultra high vacuum systems.
+- Developed Beckoff PLC system to monitor the storage ring temperature. Used 23 Ethercat couplers with 6 temperature cards (48 PT100) on each to acquire data and the data is fed to SCADA system.
 - **_Technologies used:_** Omron's Sysmac studio,Siemen's TIA Portal, Beckhoff's Twincat 3, Ethercat.
-- 
+  
 ### P2i – Oxford, UK. (_June 2023 - June 2024_)
 
 P2i is a technology company specializing in liquid-repellent nano-coating solutions that make electronic devices and textiles water-resistant. Their technology creates an invisible barrier on surfaces, protecting them from water damage and enhancing durability.
