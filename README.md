@@ -1,6 +1,6 @@
 Hi there! 
-I hold a Master's degree in Robotics and Autonomous Systems from the University of Bath and a Bachelor's degree in Electrical and Electronics Engineering from the University of Brighton. Currently, I contribute to innovative projects at P2i Limited and have previously played a key role at Brillopak Limited. My work at Brillopak included the development of high-speed pick and place robotic systems and designing control systems for various industries.
-Beyond my professional roles, I have a keen interest in non-invasive brain classification tasks.Explore my portfolio to learn more about my projects and experiences!
+I hold a Master's degree in Robotics and Autonomous Systems from the University of Bath and a Bachelor's degree in Electrical and Electronics Engineering from the University of Brighton. Currently, work at Diamond Light Source (Synchrotron) as a senior PLC engineer.
+Beyond my professional roles, I do running and swimming!
 
 [Email](mailto:g.nithianandam@gmail.com) / [LinkedIn](https://www.linkedin.com/in/gokulan-nithianandam) / [GitHub](https://github.com/GNithianandam)
 
@@ -30,7 +30,6 @@ Brillopak is an automation and robotics company that designs and manufactures in
   
 ## Projects
 ### Classification of Motor Imagery tasks 🧠
-![Alt text](asset/img/eegframework.jpeg)
 The project's major goal is finding the optimal combination of approaches to decode motor
 imagery task with less data and achieving a higher classification accuracy by performing a
 comparison study between combination of Deep Learning models and data augmentation
@@ -43,12 +42,10 @@ Conducted remote programming and testing of bolt-making machines for an Australi
 **_Technologies used:_** Omron sysmac studio, Ethercat, Serial Communication, Servo drives
 
 ### AquaMetrics: Managing Swim Sessions and Performance Data 🏊🏼
-![Alt text](asset/img/SwimDB.png)
 Developed and implemented swim training application to elevate the swimming experience through the seamless integration of MySQL and the .NET framework. This application serves as a comprehensive tool for swimmers, coaches, and fitness enthusiasts to meticulously record, analyze, and enhance their swim sessions. <br>
 **_Technologies used:_** MySQL, .Net 
 
 ### Enhancing Wildfire Detection from UAV Imagery: A Transfer Learning and Data Augmentation Approach
-![Alt text](asset/img/WildFireDetection.png)
 Implemented pre-trained deep learning model MobileNetV2 to realize transfer learning technique and data augmentation methodology to detect wildfires using UAV. The MobileNetV2 is trained and validated with the help of the MATLAB software's Deep Network Designer. <br>
 **_Technologies used:_** MATLAB, MobileNetV2 <br>
 
