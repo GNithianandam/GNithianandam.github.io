@@ -13,19 +13,18 @@ Beyond my professional roles, I do running and swimming!
 
 P2i is a technology company specializing in liquid-repellent nano-coating solutions that make electronic devices and textiles water-resistant. Their technology creates an invisible barrier on surfaces, protecting them from water damage and enhancing durability.
 
-- Engineered a robust Electrical Resistivity test software leveraging the .NET framework. The software seamlessly communicates with the Power Supply and Multimeter through SCPI commands, ensuring efficient and precise data acquisition. The acquired results are meticulously computed and stored in a CSV file for convenient analysis and reporting.
-- Developed a user-centric Human-Machine Interface (HMI) using Beijer IX Developer for an innovative development machine, placing a strong emphasis on seamless narration. Engineered a sophisticated script facilitating communication with an external database, enabling comprehensive functionality for logging, user management, and recipe management. The HMI adheres meticulously to IEC standards, ensuring a reliable and standardized interface for optimal performance.
-- Engineered a Time-Based One-Time Password (TOTP) authenticator application utilizing the .NET framework. Seamlessly integrated this app with the existing Human-Machine Interface (HMI) software to enhance authentication processes. The result is a robust and secure solution that ensures improved access control and heightened security measures.
+- Developed an Electrical Resistivity test software using .NET framework. Used SCPI commands to communicate with Kiethley Power Supply and Multimeter. Aquired 40 channel data and stored the analysed data in maria DB database.
+- Developed a Time-Based One-Time Password (TOTP) authenticator application utilizing the .NET framework. Integrated the software to the Beijer HMI for user authentication.
+- Programmed Plasma-enhanced chemical vapor deposition (PEVD) using Siemens PLC and used profibus and profinet to communicate with field devices. 
 - **_Technologies used:_** Siemen's TIA Portal, Profibus, Profinet, .NET, MariaDB, Beijer's IX Developer
   
 ### Brillopak Limited – East Peckham, UK. (_June 2018 - May 2023_)
 
-Brillopak is an automation and robotics company that designs and manufactures innovative packaging solutions for the food industry. 
+Brillopak is an automation and robotics company that designs and manufactures packaging solutions for the food industry. 
 
-- Demonstrated expertise in developing high-speed pick and place robotic systems from concept to completion using EV+ and C# programming languages.
+- Developed high-speed pick and place robotic systems from concept to completion using EV+ and C# programming languages.
 - Designed and executed control systems for multiple industries, including manufacturing, agriculture, and food production.
-- Developed and implemented functional designs for safety PLC, control system, and interface to ensure the highest level of safety and efficiency of the robotic systems.
-- Involved in customer P&ID and FAT phases of the project.
+- Involved in SAT and FAT phases of the project.
 - **_Technologies used:_** Omron's Sysmac Studio, Ethercat, Ethernet/IP, Adept Robotics, .NET
   
 ## Projects
@@ -38,7 +37,7 @@ methods.[Project Link](https://github.com/GNithianandam/EEG-Motor-Imagery-classi
 
 ### Sofware development for bolt making machine 🔩
 
-Conducted remote programming and testing of bolt-making machines for an Australian client. Configured Programmable Logic Controllers (PLC) and Human Machine Interfaces (HMI) based on Omron technology. Established serial communication protocols with both facing and drilling machines. Additionally, integrated Omron servo drives for other critical processes. <br>
+Conducted remote programming and testing of bolt-making machines for an Australian client. Configured Programmable Logic Controllers (PLC) and Human Machine Interfaces (HMI) based on Omron technology. Established serial communication protocols with both facing and drilling machines. <br>
 **_Technologies used:_** Omron sysmac studio, Ethercat, Serial Communication, Servo drives
 
 ### AquaMetrics: Managing Swim Sessions and Performance Data 🏊🏼
