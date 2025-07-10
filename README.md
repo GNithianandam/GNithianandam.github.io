@@ -9,7 +9,16 @@ Beyond my professional roles, I do running and swimming!
 - BEng., Electrical and Electronics Engineering  |University of Brighton (_June 2018_)
 
 ## Work Experience
-### P2i Limited – Oxford, UK. (_June 2023 - Present_)
+### Diamond Light Source – Oxford, UK. (_June 2024 - Present_)
+
+Diamond Light Source is the UK’s national synchrotron. It works like a giant microscope, harnessing the power of electrons to produce bright light that scientists can use to study anything from fossils to jet engines to viruses and vaccines.
+
+-Developed three axis gantry systems with 0.2mm accuracy using Beckoff stepper drives with Omron NX PLC.
+-Developed interlocks for ultra high vacuum systems.
+-Developed Beckoff PLC system to monitor the storage ring temperature. Used 23 Ethercat couplers with 6 temperature cards (48 PT100) on each to acquire data and the data is fed to SCADA system.
+- **_Technologies used:_** Omron's Sysmac studio,Siemen's TIA Portal, Beckhoff's Twincat 3, Ethercat.
+- 
+### P2i – Oxford, UK. (_June 2023 - June 2024_)
 
 P2i is a technology company specializing in liquid-repellent nano-coating solutions that make electronic devices and textiles water-resistant. Their technology creates an invisible barrier on surfaces, protecting them from water damage and enhancing durability.
 
@@ -18,7 +27,7 @@ P2i is a technology company specializing in liquid-repellent nano-coating soluti
 - Programmed Plasma-enhanced chemical vapor deposition (PEVD) using Siemens PLC and used profibus and profinet to communicate with field devices. 
 - **_Technologies used:_** Siemen's TIA Portal, Profibus, Profinet, .NET, MariaDB, Beijer's IX Developer
   
-### Brillopak Limited – East Peckham, UK. (_June 2018 - May 2023_)
+### Brillopak – East Peckham, UK. (_June 2018 - May 2023_)
 
 Brillopak is an automation and robotics company that designs and manufactures packaging solutions for the food industry. 
 
@@ -49,7 +58,6 @@ Implemented pre-trained deep learning model MobileNetV2 to realize transfer lear
 **_Technologies used:_** MATLAB, MobileNetV2 <br>
 
 ### Apple pack QC
-![Alt text](asset/img/AppleVisionQC.png)
 Used YoloV8 object detection algorithm to detect the defective apple and counting number of apples in a pack. The bad packs are detected and rejected using servo driven arm. The application is implemened using a web application developed using streamlit. Furthermore, the results are stored in the MYSQL database as part of the MES. In addition, the application provides user authentication and managements where the users credentials are encrypted using SHA512 and stored in the database. <br>
 **_Technologies used:_** MYSQL, YOLOV8, Streamlit <br>
 
